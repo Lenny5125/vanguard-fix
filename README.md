@@ -1,7 +1,7 @@
 # vanguard-fix
  This is a simple fix for the "We couldn't install a required dependency. Please try again, restart your computer or reach out to us at Riot Support" Error.
 # How to use it
- Simply run "fixvalorant.bat" as Administrator and try to launch Valorant again.
+ Simply run "fixvalorant.bat" (you can find it under the 'releases' tab) as Administrator and try to launch Valorant again.
 # How does it work?
 ```batch
 sc delete vgc
